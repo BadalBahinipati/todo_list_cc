@@ -4,6 +4,10 @@ TODO List skill test solution-Coding Ninjas
 Task: To create a TODO page using Vanilla JS - no plugins or imported libraries.
 
 Approach: I created the entire webpage using pure script of HTML, CSS and JavaScript. Here are the steps I followed:-
+
+
+
+
 a. HTML-
     - Create a header text: TODO PLANNER
     - Create a 'New Task' section which woul contain a text input field and an 'Add' button to create a new task.
